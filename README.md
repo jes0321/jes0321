@@ -5,7 +5,7 @@
 <div align=center>
 
 ## 게임개발희망자입니다.
->~~아직 여러가지 공부중~~
+~~아직 여러가지 공부중~~
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jes0321&show_icons=true&theme=holi)
@@ -16,7 +16,7 @@
 
 
 # ⚙️ Tech
->기초만 알거나 곧 배울 것들<br>
+기초만 알거나 곧 배울 것들<br>
 ~~아직 배워가는 단계~~
 
 <div align = "center">
