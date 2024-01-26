@@ -18,6 +18,7 @@
 <div align = "center">
 
 <img src="https://img.shields.io/badge/unity-000000?logo=unity"><img src="https://img.shields.io/badge/unrealengine-0E1128?logo=unrealengine">
+<img src="https://img.shields.io/badge/github-181717?logo=github">
 <div>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="37" height="37" /></div>
